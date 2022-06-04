@@ -8,20 +8,21 @@
 
 Hi! This project is created to show a simple unit test project based on Python language and run that by Github workflows.
 
-Can see workflows and processes in the **Action** tab on the top of this screen or  [this](https://github.com/mohammad26845/unit_test_sample/actions) link.
+Can see workflows and processes in the **Action** tab on the top of this screen or  **[this](https://github.com/mohammad26845/unit_test_sample/actions)** link.
 
+Furthermore, you can see the YML file and workflows code in **[this](/.github/workflows/ci.yml)** link
 
 <br>
 
-<p align="center">
-## Explain directory structure
-</p>
+<h3 align="center">
+Explain directory structure
+</h3>
 
 
 
 ```mermaid
 graph LR
-A[Root] -- for workflos file --> B(/ .github)
+A[Root] -- For workflos file --> B(/ .github)
 A -- Unit test files --> C(/ Tests)
 A -- Sample function --> D(/ Calculator)
 A -- Sample executable file --> E(/ Example)
