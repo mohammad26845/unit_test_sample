@@ -23,5 +23,5 @@ jobs:
       - name: Test with unittest
         run: |
           cd ./tests/
-          ls
+          python -m unittest test_operations.py
 
