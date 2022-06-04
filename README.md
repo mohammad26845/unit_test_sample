@@ -1,7 +1,6 @@
 # Simple Unittest based on Python
 
 [![Project Tests](https://github.com/mohammad26845/unit_test_sample/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/mohammad26845/unit_test_sample/actions/workflows/ci.yml)
-![commits-since](https://img.shields.io/github/commits-since/mohammad26845/unit_test_sample/V1.0?style=plastic)
 ![last-commit](https://img.shields.io/github/last-commit/mohammad26845/unit_test_sample?style=plastic)
 
 ---
